@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-demo.iml" filepath="$PROJECT_DIR$/spring-boot-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-docs-demo/spring-boot-docs-demo.iml" filepath="$PROJECT_DIR$/spring-boot-docs-demo/spring-boot-docs-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-kafka-demo/spring-boot-kafka-demo.iml" filepath="$PROJECT_DIR$/spring-boot-kafka-demo/spring-boot-kafka-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-mybatis-demo/spring-boot-mybatis-demo.iml" filepath="$PROJECT_DIR$/spring-boot-mybatis-demo/spring-boot-mybatis-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-rabbitmq-demo/spring-boot-rabbitmq-demo.iml" filepath="$PROJECT_DIR$/spring-boot-rabbitmq-demo/spring-boot-rabbitmq-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-swagger-demo/spring-boot-swagger-demo.iml" filepath="$PROJECT_DIR$/spring-boot-swagger-demo/spring-boot-swagger-demo.iml" />
+    </modules>
+  </component>
+</project>
